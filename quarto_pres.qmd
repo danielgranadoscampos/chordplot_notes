@@ -1,0 +1,11 @@
+---
+title: "CORDPLOT PRESENTATION"
+author: "daniel"
+format: revealjs
+editor: visual
+---
+
+## Basic cordplot 
+- GAL1 está implicado en la degradación de galactosa
+
+![gal1plot](basic_cordplot.png)
